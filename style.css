@@ -47,3 +47,83 @@ body {
     margin-right: 150px;
     /* margin-top: 100px; */
 }
+
+/* Main section styles */
+
+/* Featured section style */
+.primary-section-heading {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.primary-section-title {
+    color: #272727;
+    font-size: 30px;
+    font-weight: 800;
+}
+
+.primary-section-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.featured-container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 20px;
+    padding: 50px 250px;
+}
+
+/* Featured content */
+.featured-content-1 {
+    background-color: #F2DEE7;
+    border-radius: 100px 100px 0 0;
+    text-align: center;
+    height: 350px;
+    width: 250px;
+}
+
+.featured-content-2 {
+    background-color: #D9EFF1;
+    border-radius: 100px 100px 0 0;
+    text-align: center;
+    height: 350px;
+    width: 250px;
+}
+
+.featured-content-3 {
+    background-color: #E3EBDB;
+    border-radius: 100px 100px 0 0;
+    text-align: center;
+    height: 350px;
+    width: 250px;
+}
+
+/* Flower items */
+.flower-item1 {
+    width: 70%;
+    padding: 109px 15px 20px 30px;
+}
+
+.flower-item2 {
+    width: 97%;
+    padding: 107px 10px 20px 30px;
+}
+
+.flower-item3 {
+    width: 70%;
+    padding: 88px 12px 20px 30px;
+}
+
+.small-text {
+    text-align: center;
+    color: #272727;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    text-decoration-line: underline;
+}
+
+/* Our service styles */
