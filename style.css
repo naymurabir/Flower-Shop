@@ -44,6 +44,7 @@ span {
     color: rgba(39, 39, 39, 0.60);
     font-size: 15px;
     font-weight: 400;
+    margin-bottom: 15px;
 }
 
 .header .header-img {
@@ -199,4 +200,21 @@ span {
 
 .hot-deal-img {
     width: 250px;
+}
+
+/* Social Platform */
+.flowers-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 100px;
+    margin: 0 150px;
+}
+
+/* .flowers-box {
+    padding: 50px 0px;
+} */
+
+.box {
+    width: 200px;
 }
