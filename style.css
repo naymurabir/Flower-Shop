@@ -1,0 +1,49 @@
+/* Commoon shared styles */
+body {
+    font-family: 'Lato', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.primary-btn {
+    color: #FFF;
+    font-size: 15px;
+    font-weight: 500;
+    padding: 10px 18px;
+    border: 0;
+    border-radius: 3px;
+    background: #E55473;
+}
+
+/* Header Styles */
+
+/* .header-content {
+    width: 600px;
+} */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #E554731A;
+    padding: 30px 30px 0 150px;
+    padding-left: 150px;
+}
+
+.header-title {
+    color: #272727;
+    font-size: 60px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+
+.header-description {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.header .header-img {
+    width: 450px;
+    margin-right: 150px;
+    /* margin-top: 100px; */
+}
