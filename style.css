@@ -74,6 +74,7 @@ body {
     align-items: center;
     gap: 20px;
     padding: 50px 250px;
+    margin-bottom: 10%;
 }
 
 /* Featured content */
@@ -127,3 +128,30 @@ body {
 }
 
 /* Our service styles */
+.our-service-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F4F4F4;
+    border-radius: 5px;
+    padding: 40px 150px;
+    margin: 80px 250px;
+}
+
+.service-logo {
+    width: 50px;
+    padding-left: 60px;
+}
+
+.service-logo-3rd {
+    width: 50px;
+    padding-left: 25px;
+}
+
+.service-text {
+    font-size: 12px;
+    align-items: center;
+    font-weight: bold;
+}
+
+/* Hot Deal */
