@@ -214,3 +214,47 @@ span {
 .box {
     width: 200px;
 }
+
+/* Latest Deals Styles */
+.latest-deals {
+    background-image: url("./images/Rectangle\ 9.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 3px;
+    margin: 50px 250px;
+    height: 250px;
+}
+
+.email {
+    background: #FFF;
+    width: 400px;
+    height: 35px;
+    border: 0;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.submit-btn {
+    background: #E55473;
+    color: white;
+    width: 100px;
+    height: 35px;
+    border: 0;
+    border-radius: 4px;
+}
+
+.contact-us {
+    position: relative;
+    padding-left: 160px;
+    top: 50px;
+}
+
+.deals-title-size {
+    position: relative;
+    top: 50px;
+}
+
+.deals-paragraph-size {
+    position: relative;
+    bottom: 15px;
+}
